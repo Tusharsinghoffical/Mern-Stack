@@ -7,3 +7,4 @@ cat trial.txt
 
 git add -A
 git commit -m "Your commit message here"
+
