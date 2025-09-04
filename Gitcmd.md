@@ -5,6 +5,6 @@ git init
 
 cat trial.txt
 
-git add -A
+git add .
 git commit -m "Your commit message here"
 
